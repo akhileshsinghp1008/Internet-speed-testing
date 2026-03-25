@@ -1,5 +1,6 @@
 🌐 Internet Speed Tracker
 
+
 Python • Tkinter • Speedtest API
 
 A lightweight desktop application to measure real-time internet speed with a clean GUI.
